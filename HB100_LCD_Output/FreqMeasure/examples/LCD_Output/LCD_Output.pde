@@ -3,7 +3,7 @@
  *
  * This example code is in the public domain.
  */
-#include <FreqMeasure.h>
+#include "FreqMeasure.h"
 #include <LiquidCrystal.h>
 
 LiquidCrystal lcd(5, 4, 3, 2, 1, 0);
